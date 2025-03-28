@@ -7,6 +7,12 @@ This tool lets you **insert and remove** keys in a B-Tree and **see changes live
 ---
 
 
+## 📸 Preview
+[BTree.webm](https://github.com/user-attachments/assets/027b68f6-fdd8-4661-b498-887143f5b7a2)
+
+---
+
+
 ## 🚀 Features
 
 - **Insert** keys dynamically
@@ -90,12 +96,3 @@ http://localhost:8080
 | `DELETE` | `/api/btree/remove`   | Removes a key (`?key=VALUE`)      |
 | `GET`    | `/api/btree/tree`     | Returns the current B-Tree as JSON |
 | `DELETE` | `/api/btree/reset`    | Resets the entire tree            |
-
----
-
-
-## 📸 Preview
-[BTree.webm](https://github.com/user-attachments/assets/027b68f6-fdd8-4661-b498-887143f5b7a2)
-
-
-
