@@ -71,10 +71,7 @@ btree-visualizer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/btree-visualizer.git
-
-# Navigate into the project directory
-cd btree-visualizer
+git clone https://github.com/Peter-ca/BTree_Visualizer.git
 
 # Run the application using Maven
 ./mvnw spring-boot:run
